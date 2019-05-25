@@ -12,6 +12,7 @@ Cukup Menggunakan CMD. contoh : php 1.php
 
 ## Soal Nomor 6
 Saya menjalankan Aplikasinya menggunakan XAMPP V7.
+Menggunakan Database SQL di file bernama arkademy.sql
 
 ## Preview Aplikasi di Soal Nomor 6
 
