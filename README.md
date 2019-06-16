@@ -1,4 +1,4 @@
-# Jawaban Soal Arkademy Bootcamp Batch 10
+# Jawaban Soal Test Arkademy Bootcamp Batch 10
 
 ## REST API
 REST (REpresentational State Transfer) merupakan standar arsitektur komunikasi berbasis web yang sering diterapkan dalam pengembangan layanan berbasis web.
